@@ -4,7 +4,7 @@ I'm a passionate software developer with a focus on web development and backend 
 
 ## 🔧 Tech Stack
 
-- 💻 Languages: **PHP**, **Java**, **JavaScript**
+- 💻 Languages: **PHP**, **Java**, **JavaScript**, **Python**
 - 🌐 Web: **Laravel**, **Vue.js**, **Sanctum**, **PrimeVue**
 - 🐳 DevOps: **Docker**, **Nginx**, **MinIO**, 
 - 🐘 Databases: **MySQL**, **Redis**
