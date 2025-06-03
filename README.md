@@ -26,7 +26,7 @@ I'm a passionate software developer with a focus on web development and backend 
         <img src="https://github-readme-stats.vercel.app/api?username=OnyxPerseus&hide=stars&theme=tokyonight"/>
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OnyxPerseus&layout=compact&theme=tokyonight"/>
       </td>
     </tr>
   </tbody>
