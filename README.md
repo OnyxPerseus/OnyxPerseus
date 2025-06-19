@@ -33,5 +33,5 @@ I'm a passionate software developer with a focus on web development and backend 
 </table>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=OnyxPerseus&theme=tokyonight-duo" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-two-xi.vercel.app?user=OnyxPerseus&theme=tokyonight" alt="GitHub Streak" />
 </div>
